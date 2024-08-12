@@ -38,6 +38,7 @@
     padding: 20px;
     border-radius: 8px;
     margin-bottom: 20px;
+    font-size: 18px;
   }
   
   .input-label {
@@ -47,7 +48,7 @@
   }
   
   .input-field {
-    width: 100%;
+    width: 80%;
     padding: 8px;
     margin-bottom: 10px;
     border: 1px solid #ddd;
@@ -78,4 +79,5 @@
     text-align: center;
     color: #2e7d32;
     margin-top: 20px;
+    font-size: 16px;
   }
